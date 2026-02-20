@@ -55,7 +55,8 @@ The overall human agreement accuracy reaches 0.8075
 These results indicate that SPRank-k exhibits strong consistency with human semantic judgment, supporting its validity as a semantic-consistency–oriented evaluation perspective beyond strict ID matching.
 
 
-<img width="416" height="141" alt="image" src="https://github.com/user-attachments/assets/717df2be-a26b-4c59-8656-6558bf1ef174" />
+<img width="2289" height="1253" alt="consistency" src="https://github.com/user-attachments/assets/f737ecdd-98da-4290-8555-6974d2927930" />
+
 
 Human-SPRank agreement vs. visual similarity. Green/red points denote SPRank-k predictions (POS/NEG). Opaque points indicate that the SPRank-k prediction agrees with the human majority-vote label (match for POS, mismatch for NEG), while translucent points indicate disagreement. ‘×’ marks samples labeled as uncertain under human voting (majority unsure or no majority).
 
