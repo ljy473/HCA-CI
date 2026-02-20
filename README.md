@@ -59,3 +59,7 @@ These results indicate that SPRank-k exhibits strong consistency with human sema
 
 Human-SPRank agreement vs. visual similarity. Green/red points denote SPRank-k predictions (POS/NEG). Opaque points indicate that the SPRank-k prediction agrees with the human majority-vote label (match for POS, mismatch for NEG), while translucent points indicate disagreement. ‘×’ marks samples labeled as uncertain under human voting (majority unsure or no majority).
 
+
+Contact: 7243115002@stu.jiangnan.edu.cn
+
+
